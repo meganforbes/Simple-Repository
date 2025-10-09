@@ -1,7 +1,7 @@
 [
   {
     "name": "Climate Data Visualizer",
-    "license": "MIT",
+    "license": "Apache",
     "latest_version": "2.4.0",
     "latest_release_date": "2023-10-10",
     "last_updated": "2023-10-12",
