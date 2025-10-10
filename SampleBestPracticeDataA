@@ -39,4 +39,62 @@
     "has_citation": false,
     "latest_version": null,
     "latest_release_date": null,
-    "last_updated":
+    "last_updated": "2025-09-28"
+  },
+  {
+    "repo_name": "data-viz-toolkit",
+    "org": "OpenCompute",
+    "repo_url": "https://github.com/OpenCompute/data-viz-toolkit",
+    "org_url": "https://github.com/OpenCompute",
+    "gh_owners": ["vizmaster", "jdoe"],
+    "license": "MIT",
+    "has_readme": true,
+    "has_contributing": true,
+    "has_citation": true,
+    "latest_version": "v3.0.0",
+    "latest_release_date": "2025-10-01",
+    "last_updated": "2025-10-08"
+  },
+  {
+    "repo_name": "compute-core",
+    "org": "OpenCompute",
+    "repo_url": "https://github.com/OpenCompute/compute-core",
+    "org_url": "https://github.com/OpenCompute",
+    "gh_owners": ["coredev"],
+    "license": "GPL",
+    "has_readme": true,
+    "has_contributing": false,
+    "has_citation": false,
+    "latest_version": "v1.0.0",
+    "latest_release_date": "2025-07-10",
+    "last_updated": "2025-09-25"
+  },
+  {
+    "repo_name": "ai-ethics-framework",
+    "org": "TechForGood",
+    "repo_url": "https://github.com/TechForGood/ai-ethics-framework",
+    "org_url": "https://github.com/TechForGood",
+    "gh_owners": ["ethicsdev", "airesponsible"],
+    "license": "MIT",
+    "has_readme": true,
+    "has_contributing": true,
+    "has_citation": true,
+    "latest_version": "v1.0.0",
+    "latest_release_date": "2025-10-05",
+    "last_updated": "2025-10-10"
+  },
+  {
+    "repo_name": "quantum-simulator",
+    "org": "QuantumLab",
+    "repo_url": "https://github.com/QuantumLab/quantum-simulator",
+    "org_url": "https://github.com/QuantumLab",
+    "gh_owners": ["quantumdev"],
+    "license": "GPL",
+    "has_readme": true,
+    "has_contributing": false,
+    "has_citation": true,
+    "latest_version": "v0.8.2",
+    "latest_release_date": "2025-09-20",
+    "last_updated": "2025-10-09"
+  }
+]
