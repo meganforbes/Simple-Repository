@@ -5,7 +5,7 @@
     "repo_url": "https://github.com/EnviroTech/climate-data-visualizer",
     "org_url": "https://github.com/EnviroTech",
     "gh_owners": ["jgreen", "climatebot"],
-    "license": "MIT",
+    "license": "GPL",
     "has_readme": true,
     "has_contributing": true,
     "has_citation": false,
