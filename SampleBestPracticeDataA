@@ -9,23 +9,23 @@
     "has_readme": true,
     "has_contributing": true,
     "has_citation": false,
-    "latest_version": "v2.1.0",
-    "latest_release_date": "2025-09-15",
-    "last_updated": "2025-10-07"
+    "latest_version": "v2.2.0",
+    "latest_release_date": "2025-10-09",
+    "last_updated": "2025-10-09"
   },
   {
     "repo_name": "urban-mobility-sim",
     "org": "CityLab",
     "repo_url": "https://github.com/CityLab/urban-mobility-sim",
     "org_url": "https://github.com/CityLab",
-    "gh_owners": ["mobilitydev"],
+    "gh_owners": ["mobilitydev", "transportguru"],
     "license": "GPL",
     "has_readme": true,
-    "has_contributing": false,
+    "has_contributing": true,
     "has_citation": true,
-    "latest_version": "v1.4.3",
-    "latest_release_date": "2025-08-22",
-    "last_updated": "2025-09-30"
+    "latest_version": "v1.5.0",
+    "latest_release_date": "2025-10-08",
+    "last_updated": "2025-10-10"
   },
   {
     "repo_name": "open-water-quality",
@@ -44,29 +44,4 @@
   {
     "repo_name": "data-viz-toolkit",
     "org": "OpenCompute",
-    "repo_url": "https://github.com/OpenCompute/data-viz-toolkit",
-    "org_url": "https://github.com/OpenCompute",
-    "gh_owners": ["vizmaster", "jdoe"],
-    "license": "MIT",
-    "has_readme": true,
-    "has_contributing": true,
-    "has_citation": true,
-    "latest_version": "v3.0.0",
-    "latest_release_date": "2025-10-01",
-    "last_updated": "2025-10-08"
-  },
-  {
-    "repo_name": "compute-core",
-    "org": "OpenCompute",
-    "repo_url": "https://github.com/OpenCompute/compute-core",
-    "org_url": "https://github.com/OpenCompute",
-    "gh_owners": ["coredev"],
-    "license": "GPL",
-    "has_readme": true,
-    "has_contributing": false,
-    "has_citation": false,
-    "latest_version": "v1.0.0",
-    "latest_release_date": "2025-07-10",
-    "last_updated": "2025-09-25"
-  }
-]
+    "repo_url": "https://github.com/OpenCompute/data-viz-toolki
